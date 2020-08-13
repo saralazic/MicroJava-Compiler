@@ -1,0 +1,15 @@
+program MJProgram 
+ 	int x;
+ 	int y+; 
+{
+	void fja()
+		int a;
+	{
+		a=0;
+		y = a+3;
+		y--;
+		x = *y;
+	}
+	
+	
+}
